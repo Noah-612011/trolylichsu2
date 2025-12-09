@@ -1,0 +1,6 @@
+# Bỏ qua secrets
+.streamlit/secrets.toml
+
+# Bỏ qua thư mục tạm
+__pycache__/
+*.pyc
