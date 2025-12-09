@@ -1,1 +1,3 @@
-# trolylichsu2
+streamlit
+openai
+gtts
